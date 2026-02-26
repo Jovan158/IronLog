@@ -1,1 +1,0 @@
-import{j as d}from"./index-CuPckX_d.js";function a({children:r,className:e="",...o}){return d.jsx("div",{className:`bg-surface rounded-xl border border-border-default p-4 ${e}`,...o,children:r})}export{a as C};
